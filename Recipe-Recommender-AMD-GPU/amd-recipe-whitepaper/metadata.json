@@ -1,0 +1,5 @@
+{
+  "name": "Smart Recipe Recommender",
+  "description": "A machine learning-powered recipe recommendation engine using KNN to find the perfect meals based on your calorie needs and dietary preferences.",
+  "requestFramePermissions": []
+}
